@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "622319720029",
+    "firebase_url": "https://policefirebase.firebaseio.com",
+    "project_id": "policefirebase",
+    "storage_bucket": "policefirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622319720029:android:4c53299111a83116",
+        "android_client_info": {
+          "package_name": "com.example.prathamesh.policeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622319720029-dg9mstejnv69mh67mtuun4s4ked3uiu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfK32Hc-DRgXpZnNK1OLLb7eWTqlMhg30"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
